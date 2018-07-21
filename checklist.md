@@ -4,6 +4,7 @@ Applications
 - [ ] https://www.sublimetext.com/3
 - [ ] https://www.google.com/chrome/
 - [ ] https://www.spotify.com/us/
+- [ ] https://itunes.apple.com/us/app/amphetamine/id937984704?mt=12
 
 Developer Tools
 
